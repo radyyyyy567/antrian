@@ -1,2 +1,5 @@
 node_modules/
 *.lock
+package.json
+tailwind/
+tailwind.config.js
